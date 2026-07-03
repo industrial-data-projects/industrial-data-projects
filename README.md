@@ -41,6 +41,8 @@ clean, interactive, and automated reports delivered on schedule.
 
 ## 📬 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/bekkouch-abdelaziz)
+
 
 
 ---

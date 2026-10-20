@@ -1,4 +1,4 @@
-# 🏭 Industrial Data Projects
+# 📊  Industrial Data Projects
 
 > **Industrial Engineer bridging the gap between the factory floor and the data stack.**
 

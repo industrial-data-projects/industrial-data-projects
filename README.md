@@ -14,7 +14,7 @@ I develop Python-based solutions that help industrial companies reduce reporting
 | Data Processing & Automation | Python · Pandas · NumPy · Data Cleaning · Automated Reporting |
 | Business Intelligence & Visualization | Power BI · Plotly · Matplotlib · Seaborn · Interactive Dashboards |
 | Reporting Automation | Jupyter Notebook · nbconvert · HTML · PDF · Excel |
-| Industrial Engineering & BI | Supply Chain · Maintenance · Quality · Operational KPIs · Data-Driven Decision-Making |
+| Industrial Engineering & BI | Supply Chain · Maintenance · Quality · Production · Operational KPIs · Data-Driven Decision-Making |
 | Version Control | Git · GitHub |
 
 ## 📂 Featured Projects

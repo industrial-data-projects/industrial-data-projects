@@ -10,14 +10,12 @@ I develop Python-based solutions that help industrial companies reduce reporting
 
 | Domain | Tools & Technologies |
 |---|---|
-| Data Extraction | SAP · ERP Systems · Excel · PDF · Operational Sources |
-| Data Processing | Python · Pandas · NumPy |
-| Visualization | Plotly · Matplotlib · Seaborn |
-| Reporting Automation | Jupyter · nbconvert · HTML · PDF · Excel |
-| Industrial Analytics | Inventory KPIs · Maintenance KPIs · MTTR · Stock Analysis |
+| Project Controls & Cost Performance | SAP · Cost Tracking · Budget Monitoring · EVM · Variance Analysis · Forecasting · Cash Flow Management · Accounts Receivable (AR) |
+| Data Processing & Automation | Python · Pandas · NumPy · Data Cleaning · Automated Reporting |
+| Business Intelligence & Visualization | Power BI · Plotly · Matplotlib · Seaborn · Interactive Dashboards |
+| Reporting Automation | Jupyter Notebook · nbconvert · HTML · PDF · Excel |
+| Industrial Engineering & BI | Supply Chain · Maintenance · Quality · Operational KPIs · Data-Driven Decision-Making |
 | Version Control | Git · GitHub |
-
----
 
 ## 📂 Featured Projects
 
